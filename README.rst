@@ -6,18 +6,9 @@ smspool
 .. image:: https://img.shields.io/pypi/v/smspool.svg
         :target: https://pypi.python.org/pypi/smspool
 
-.. image:: https://img.shields.io/travis/AG4lyf/smspool.svg
-        :target: https://travis-ci.com/AG4lyf/smspool
-
 .. image:: https://readthedocs.org/projects/smspool/badge/?version=latest
         :target: https://smspool.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
-
-
-.. image:: https://pyup.io/repos/github/AG4lyf/smspool/shield.svg
-     :target: https://pyup.io/repos/github/AG4lyf/smspool/
-     :alt: Updates
-
 
 
 A simple Python wrapper for the `smspool.net <https://www.smspool.net/>`__ API — a service
